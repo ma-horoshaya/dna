@@ -1,0 +1,16 @@
+{
+  "name": "ma-horoshaya-marketplace",
+  "displayName": "Ma Horoshaya Marketplace",
+  "owner": {
+    "name": "ma-horoshaya",
+    "url": "https://github.com/ma-horoshaya"
+  },
+  "plugins": [
+    {
+      "name": "dna",
+      "displayName": "DNA",
+      "description": "Customer DNA framework and audience analysis.",
+      "source": "./"
+    }
+  ]
+}
