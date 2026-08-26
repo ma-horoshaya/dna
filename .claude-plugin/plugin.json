@@ -1,0 +1,10 @@
+{
+  "name": "dna",
+  "displayName": "DNA",
+  "version": "1.0.0",
+  "description": "AI assistant for building customer DNA profiles, audience segmentation and messaging strategy.",
+  "author": {
+    "name": "ma-horoshaya",
+    "url": "https://github.com/ma-horoshaya"
+  }
+}
